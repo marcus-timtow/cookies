@@ -1,0 +1,19 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "main": "cookies.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcus-timtow/cookies.git"
+  },
+  "dependencies": {
+    "cookie": "^0.3.1"
+  },
+  "keywords": ["cookies", "cookie", "node.js", "http", "server", "connect", "express"],
+  "author": "Marcus Timtow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcus-timtow/cookies/issues"
+  },
+  "homepage": "https://github.com/marcus-timtow/cookies"
+}
